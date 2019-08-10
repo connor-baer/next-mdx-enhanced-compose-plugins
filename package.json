@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@next/bundle-analyzer": "^9.0.3",
     "next": "9.0.3",
     "next-compose-plugins": "^2.2.0",
     "next-mdx-enhanced": "^2.0.0",
